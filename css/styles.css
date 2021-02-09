@@ -1,3 +1,9 @@
-p.lorem {
+p.first {
 	background-color: yellow
 }
+#lorem {
+}
+
+.container {
+	padding: <one_size fits all>
+	padding: 10px;
