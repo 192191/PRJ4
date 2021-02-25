@@ -13,6 +13,6 @@ div {
 	margin: 20px;
 }
 
-#padding {
-	padding: 10px;
+.image {
+	background-image: url("images/oersoep.jpg");
 }
