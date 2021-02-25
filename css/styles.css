@@ -1,9 +1,12 @@
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
 p.first {
 	background-color: yellow
+	
 }
 #lorem {
-	color: blue
+	color: blue;
+	font-family: 'RocknRoll One', sans-serif;	
 }
 
 div {
@@ -11,8 +14,8 @@ div {
 	border: 15px solid green;
 	padding: 50px;
 	margin: 20px;
-}
-
-.image {
-	background-image: url("images/oersoep.jpg");
+	background-image: url(oersoep.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
