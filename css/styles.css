@@ -13,7 +13,7 @@ div {
 	width: 300px;
 	border: 15px solid green;
 	padding: 50px;
-	margin: 20px;
+	margin: 0 auto;
 	background-image: url(oersoep.jpg);
 	background-size: contain;
 	background-repeat: no-repeat;
